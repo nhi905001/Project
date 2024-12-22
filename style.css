@@ -4,4 +4,10 @@ h1{
 }
 h2{
    color: red;
+   margin-right: 12px;
+   padding: 5px;
 }
+p{
+  color: green;
+  }
+
